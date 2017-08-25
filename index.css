@@ -233,7 +233,7 @@ li span{
     opacity:0;
 }
 #main #head{
-    font-size:2.5em;
+    font-size:2.25em;
 }
 
 #main #date{
@@ -244,7 +244,6 @@ li span{
 }
 
 #main .standard{
-    line-height:30px;
     margin:0 2% 30px 2%;
 }
 
@@ -261,8 +260,8 @@ li span{
 
 .images{
     position:relative;
-    width:630px;
-    height:470px;
+    width:100%;
+    height:975px;
     margin:0 auto 75px auto;
 }
 
@@ -291,7 +290,6 @@ li span{
 }
 
 #standard2{
-    line-height:30px;
     margin:0 1% 10px 1%;
 }
 #root{
